@@ -1,0 +1,65 @@
+# Dataset
+/dataset_dir/
+
+# Checkpoints
+/ckpts/
+/data/BDD-Detection/faster-rcnn/vanilla/random_seed_0/model_final_vanilla_resnet_bdd.pth
+/data/VOC-Detection/faster-rcnn/vanilla/model_final_vanilla_resnet_voc.pth
+/data/COCO_2017-Detection/faster-rcnn/vanilla/random_seed_0/inference
+/data/BDD-Detection/faster-rcnn/vanilla/random_seed_0/inference
+/data/VOC-Detection/faster-rcnn/vanilla/random_seed_0/inference
+/data/BDD-Detection/faster-rcnn/vanilla/random_seed_0/log.txt
+/data/VOC-Detection/faster-rcnn/vanilla/random_seed_0/log.txt
+/data/BDD-Detection/faster-rcnn/vanilla_vitdet/random_seed_0/inference
+/data/VOC-Detection/faster-rcnn/vanilla_vitdet/random_seed_0/inference
+/data/BDD-Detection/faster-rcnn/vanilla_vitdet/random_seed_0/log.txt
+/data/VOC-Detection/faster-rcnn/vanilla_vitdet/random_seed_0/log.txt
+/ViTDet/output/
+
+# Trash
+/trash/
+
+# Logs folder (since it also contains the results files - large files)
+/exps/
+/logs/
+
+
+# MS_DETR_New: dataset, checkpoints, object specific features, visualization
+/MS_DETR_New/data/
+/MS_DETR_New/exps/
+/MS_DETR_New/obj_spe_features/
+/MS_DETR_New/visualization/
+/MS_DETR_New/train.log
+
+# Pycache
+**/__pycache__/
+
+# Baselines
+/baselines/MSP
+/baselines/ODIN
+/baselines/Energy
+/baselines/Mahalanobis/log
+/baselines/Mahalanobis/metric_scores
+/baselines/Mahalanobis/weights
+/baselines/Mahalanobis/Results
+/baselines/siren/log
+/baselines/siren/metric_scores
+/baselines/siren/weights
+/baselines/siren/Results
+/baselines/MLP/log
+/baselines/MLP/metric_scores
+/baselines/MLP/means
+/baselines/MLP/weights
+/baselines/MLP/Results
+/baselines/utils/AUROC_FPR95_Results/
+
+# Utils
+/utils/Demo/*/
+/utils/Demo/capture_infor.pkl
+/utils/ID_OoD_Analysis/Data_Visualization/
+/utils/Images/
+/utils/Layer_Performance/Data_Visualization/
+/utils/Layer_Sensitivity/Visualization/
+/utils/Layer_Sensitivity/Data/
+/utils/SelfAttention_MLP/Data_Visualization
+/utils/Baseline_OOD_Scores/*/

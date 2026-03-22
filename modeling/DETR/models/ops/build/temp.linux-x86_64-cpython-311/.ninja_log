@@ -1,0 +1,4 @@
+# ninja log v5
+0	3731	1719403666622352901	/home/khoadv/SAFE/SAFE_Official/modeling/DETR/models/ops/build/temp.linux-x86_64-cpython-311/home/khoadv/SAFE/SAFE_Official/modeling/DETR/models/ops/src/cpu/ms_deform_attn_cpu.o	fcbcc02bf67c415f
+0	11704	1719403674594474825	/home/khoadv/SAFE/SAFE_Official/modeling/DETR/models/ops/build/temp.linux-x86_64-cpython-311/home/khoadv/SAFE/SAFE_Official/modeling/DETR/models/ops/src/vision.o	f432805e66ae1230
+0	16258	1719403679126544387	/home/khoadv/SAFE/SAFE_Official/modeling/DETR/models/ops/build/temp.linux-x86_64-cpython-311/home/khoadv/SAFE/SAFE_Official/modeling/DETR/models/ops/src/cuda/ms_deform_attn_cuda.o	c2487c3043286966
