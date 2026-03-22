@@ -1,0 +1,5 @@
+{
+    "python.defaultInterpreterPath": "/home/khoadv/miniconda3/envs/vos_detr/bin/python",
+    "markdown.occurrencesHighlight.enabled": true,
+    "editor.occurrencesHighlight": "multiFile"
+}
